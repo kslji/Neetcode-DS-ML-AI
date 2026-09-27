@@ -41,7 +41,7 @@ _Forthcoming / in progress_
 ## 🛠️ Tech Stack & Tools
 
 - **Languages:** Java and Python
-- **Platforms:** [NeetCode](https://neetcode.io/) and [LeetCode](https://leetcode.com/)
+- **Platforms:** [NeetCode](https://neetcode.io/)
 - **Version Control:** Git and GitHub
 
 ## 📈 Progress Tracker
