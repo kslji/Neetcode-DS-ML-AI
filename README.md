@@ -1,6 +1,6 @@
 # NeetCode DS, ML & AI
 
-My personal solutions and submissions for problem sets on [NeetCode](https://neetcode.io/) and [LeetCode](https://leetcode.com/). This repository serves as a central hub for tracking my learning progress and building strong foundations in Data Structures, Algorithms, Machine Learning, and Artificial Intelligence.
+My personal solutions and submissions for problem sets on [NeetCode](https://neetcode.io/) . This repository serves as a central hub for tracking my learning progress and building strong foundations in Data Structures, Algorithms, Machine Learning, and Artificial Intelligence.
 
 ## 📂 Repository Structure
 
