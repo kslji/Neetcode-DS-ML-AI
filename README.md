@@ -40,7 +40,7 @@ _Forthcoming / in progress_
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** Java, with Python and C++ planned or used as applicable
+- **Languages:** Java and Python
 - **Platforms:** [NeetCode](https://neetcode.io/) and [LeetCode](https://leetcode.com/)
 - **Version Control:** Git and GitHub
 
